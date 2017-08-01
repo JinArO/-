@@ -1,0 +1,3 @@
+1.有三個資料夾"Python27"為Python主檔建議放在C槽，並在"環境變數"內"PATH"加入"C:\Python27;C:\Python27\Scripts"。
+
+2.testOpencv程式內有關的路徑請改成相關你放置的程式資料夾路徑

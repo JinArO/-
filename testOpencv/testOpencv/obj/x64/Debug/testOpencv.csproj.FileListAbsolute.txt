@@ -1,0 +1,10 @@
+C:\Users\wistronits\Desktop\TEST\testOpencv\testOpencv\bin\x64\Debug\testOpencv.exe.config
+C:\Users\wistronits\Desktop\TEST\testOpencv\testOpencv\bin\x64\Debug\testOpencv.exe
+C:\Users\wistronits\Desktop\TEST\testOpencv\testOpencv\bin\x64\Debug\testOpencv.pdb
+C:\Users\wistronits\Desktop\TEST\testOpencv\testOpencv\obj\x64\Debug\testOpencv.csprojResolveAssemblyReference.cache
+C:\Users\wistronits\Desktop\TEST\testOpencv\testOpencv\obj\x64\Debug\testOpencv.Form1.resources
+C:\Users\wistronits\Desktop\TEST\testOpencv\testOpencv\obj\x64\Debug\testOpencv.Properties.Resources.resources
+C:\Users\wistronits\Desktop\TEST\testOpencv\testOpencv\obj\x64\Debug\testOpencv.csproj.GenerateResource.Cache
+C:\Users\wistronits\Desktop\TEST\testOpencv\testOpencv\obj\x64\Debug\testOpencv.exe
+C:\Users\wistronits\Desktop\TEST\testOpencv\testOpencv\obj\x64\Debug\testOpencv.pdb
+C:\Users\wistronits\Desktop\TEST\testOpencv\testOpencv\bin\x64\Debug\Microsoft.Scripting.xml
